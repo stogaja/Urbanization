@@ -5,7 +5,7 @@
 The primary aim of this study was to comprehensively grasp and draw conclusions from the prevailing urbanization patterns in Kenya. This was achieved through meticulous data cleaning, in-depth analysis, and the creation of insightful visualizations. These visual representations were instrumental in formulating the conclusions outlined below.
 
 <br />
-
+  
   ![My Portfolio](https://github.com/stogaja/Urbanization/blob/main/urbanization-external-data/URBANIZATION.png) 
 
 
@@ -34,6 +34,9 @@ Do check the file named `Urbanization.ipynb` contains all the visualization and 
 9. Policy makers should address the issue of youth unemployment which is a problem that comes from urbanization. It reflects positively on the productivity of the country.
 
 <br />
+
+![My Portfolio](https://github.com/stogaja/Urbanization/blob/main/urbanization-external-data/urban.png)
+
 <br />
 
 ## Technologies Used
