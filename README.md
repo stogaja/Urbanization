@@ -2,7 +2,8 @@
 
 ## Description
 
-The main objective of this study was to be ableto understand and draw conclusions from the current urbanization trends in Kenya, this was done by ensuring thorough data cleaning and analysis which was followed by making visualizations  from the datasets that were then used to draw conclusions as stated below.
+The primary aim of this study was to comprehensively grasp and draw conclusions from the prevailing urbanization patterns in Kenya. This was achieved through meticulous data cleaning, in-depth analysis, and the creation of insightful visualizations. These visual representations were instrumental in formulating the conclusions outlined below.
+
 <br />
 <br />
 
