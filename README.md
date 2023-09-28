@@ -6,6 +6,9 @@ The primary aim of this study was to comprehensively grasp and draw conclusions 
 
 <br />
 
+  ![My Portfolio](https://github.com/stogaja/Urbanization/blob/main/urbanization-external-data/URBANIZATION.png) 
+
+
 Do check the file named `Urbanization.ipynb` contains all the visualization and analysis
 
 <br />
