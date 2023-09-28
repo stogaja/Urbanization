@@ -5,6 +5,9 @@
 The primary aim of this study was to comprehensively grasp and draw conclusions from the prevailing urbanization patterns in Kenya. This was achieved through meticulous data cleaning, in-depth analysis, and the creation of insightful visualizations. These visual representations were instrumental in formulating the conclusions outlined below.
 
 <br />
+
+Do check the file named `Urbanization.ipynb` contains all the visualization and analysis
+
 <br />
 
 ## ANALYSIS SUMMARY
